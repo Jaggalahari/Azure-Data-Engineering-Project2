@@ -1,0 +1,10 @@
+================================================================================
+XML STRUCTURE VALIDATION REPORT
+================================================================================
+
+Reference XML : invoice_001.xml
+Total XML Files : 20
+
+
+SUCCESS
+All XML files have identical structure.

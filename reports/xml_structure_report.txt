@@ -1,0 +1,520 @@
+
+====================================================================================================
+FILE : invoice_001.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000001
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017631
+            Vendor_Name: ABC INDUSTRIES
+            Vendor_Number: 1005651
+            SAP_Document_Number: 5609937701
+            Purchase_Order_Number: 4508634001
+            Invoice_Amount: 3123.45
+
+====================================================================================================
+FILE : invoice_002.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000002
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017632
+            Vendor_Name: XYZ SUPPLIERS
+            Vendor_Number: 1005652
+            SAP_Document_Number: 5609937702
+            Purchase_Order_Number: 4508634002
+            Invoice_Amount: 3246.9
+
+====================================================================================================
+FILE : invoice_003.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000003
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017633
+            Vendor_Name: DEF MATERIALS
+            Vendor_Number: 1005653
+            SAP_Document_Number: 5609937703
+            Purchase_Order_Number: 4508634003
+            Invoice_Amount: 3370.35
+
+====================================================================================================
+FILE : invoice_004.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000004
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017634
+            Vendor_Name: GLOBAL PARTS
+            Vendor_Number: 1005654
+            SAP_Document_Number: 5609937704
+            Purchase_Order_Number: 4508634004
+            Invoice_Amount: 3493.8
+
+====================================================================================================
+FILE : invoice_005.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000005
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017635
+            Vendor_Name: MOTION INDUSTRIES INC
+            Vendor_Number: 1005655
+            SAP_Document_Number: 5609937705
+            Purchase_Order_Number: 4508634005
+            Invoice_Amount: 3617.25
+
+====================================================================================================
+FILE : invoice_006.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000006
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017636
+            Vendor_Name: ABC INDUSTRIES
+            Vendor_Number: 1005656
+            SAP_Document_Number: 5609937706
+            Purchase_Order_Number: 4508634006
+            Invoice_Amount: 3740.7
+
+====================================================================================================
+FILE : invoice_007.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000007
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017637
+            Vendor_Name: XYZ SUPPLIERS
+            Vendor_Number: 1005657
+            SAP_Document_Number: 5609937707
+            Purchase_Order_Number: 4508634007
+            Invoice_Amount: 3864.15
+
+====================================================================================================
+FILE : invoice_008.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000008
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017638
+            Vendor_Name: DEF MATERIALS
+            Vendor_Number: 1005658
+            SAP_Document_Number: 5609937708
+            Purchase_Order_Number: 4508634008
+            Invoice_Amount: 3987.6
+
+====================================================================================================
+FILE : invoice_009.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000009
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017639
+            Vendor_Name: GLOBAL PARTS
+            Vendor_Number: 1005659
+            SAP_Document_Number: 5609937709
+            Purchase_Order_Number: 4508634009
+            Invoice_Amount: 4111.05
+
+====================================================================================================
+FILE : invoice_010.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000010
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017640
+            Vendor_Name: MOTION INDUSTRIES INC
+            Vendor_Number: 1005660
+            SAP_Document_Number: 5609937710
+            Purchase_Order_Number: 4508634010
+            Invoice_Amount: 4234.5
+
+====================================================================================================
+FILE : invoice_011.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000011
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017641
+            Vendor_Name: ABC INDUSTRIES
+            Vendor_Number: 1005661
+            SAP_Document_Number: 5609937711
+            Purchase_Order_Number: 4508634011
+            Invoice_Amount: 4357.95
+
+====================================================================================================
+FILE : invoice_012.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000012
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017642
+            Vendor_Name: XYZ SUPPLIERS
+            Vendor_Number: 1005662
+            SAP_Document_Number: 5609937712
+            Purchase_Order_Number: 4508634012
+            Invoice_Amount: 4481.4
+
+====================================================================================================
+FILE : invoice_013.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000013
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017643
+            Vendor_Name: DEF MATERIALS
+            Vendor_Number: 1005663
+            SAP_Document_Number: 5609937713
+            Purchase_Order_Number: 4508634013
+            Invoice_Amount: 4604.85
+
+====================================================================================================
+FILE : invoice_014.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000014
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017644
+            Vendor_Name: GLOBAL PARTS
+            Vendor_Number: 1005664
+            SAP_Document_Number: 5609937714
+            Purchase_Order_Number: 4508634014
+            Invoice_Amount: 4728.3
+
+====================================================================================================
+FILE : invoice_015.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000015
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017645
+            Vendor_Name: MOTION INDUSTRIES INC
+            Vendor_Number: 1005665
+            SAP_Document_Number: 5609937715
+            Purchase_Order_Number: 4508634015
+            Invoice_Amount: 4851.75
+
+====================================================================================================
+FILE : invoice_016.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000016
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017646
+            Vendor_Name: ABC INDUSTRIES
+            Vendor_Number: 1005666
+            SAP_Document_Number: 5609937716
+            Purchase_Order_Number: 4508634016
+            Invoice_Amount: 4975.2
+
+====================================================================================================
+FILE : invoice_017.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000017
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017647
+            Vendor_Name: XYZ SUPPLIERS
+            Vendor_Number: 1005667
+            SAP_Document_Number: 5609937717
+            Purchase_Order_Number: 4508634017
+            Invoice_Amount: 5098.65
+
+====================================================================================================
+FILE : invoice_018.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000018
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017648
+            Vendor_Name: DEF MATERIALS
+            Vendor_Number: 1005668
+            SAP_Document_Number: 5609937718
+            Purchase_Order_Number: 4508634018
+            Invoice_Amount: 5222.1
+
+====================================================================================================
+FILE : invoice_019.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000019
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017649
+            Vendor_Name: GLOBAL PARTS
+            Vendor_Number: 1005669
+            SAP_Document_Number: 5609937719
+            Purchase_Order_Number: 4508634019
+            Invoice_Amount: 5345.55
+
+====================================================================================================
+FILE : invoice_020.xml
+====================================================================================================
+DocumentClass: 
+    DocumentHeader: 
+        OrganizationalData: 
+            Customer_ID: CLOROX
+            Business_Unit: NO_AMERICA
+            Company_Code: CA00
+        DocumentSourceDetails: 
+            Received_Date: 10/27/2025 11:14:20 AM
+            Scan_Date: 10/27/2025 11:14:20 AM
+        DocumentID: 20251027DD0000020
+        DocumentStructureData: 
+            Document_Category: P2P
+            Document_Sub_Category: Standard
+            Document_Type: Invoice
+            Document_Sub_Type: Non-PO
+        DocumentReference: 
+            Document_Type_Number: 95017650
+            Vendor_Name: MOTION INDUSTRIES INC
+            Vendor_Number: 1005670
+            SAP_Document_Number: 5609937720
+            Purchase_Order_Number: 4508634020
+            Invoice_Amount: 5469.0

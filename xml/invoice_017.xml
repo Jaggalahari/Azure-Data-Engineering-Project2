@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DocumentClass>
+    <DocumentHeader>
+        <OrganizationalData>
+            <Customer_ID>CLOROX</Customer_ID>
+            <Business_Unit>NO_AMERICA</Business_Unit>
+            <Company_Code>CA00</Company_Code>
+        </OrganizationalData>
+        <DocumentSourceDetails>
+            <Received_Date>10/27/2025 11:14:20 AM</Received_Date>
+            <Scan_Date>10/27/2025 11:14:20 AM</Scan_Date>
+        </DocumentSourceDetails>
+        <DocumentID>20251027DD0000017</DocumentID>
+        <DocumentStructureData>
+            <Document_Category>P2P</Document_Category>
+            <Document_Sub_Category>Standard</Document_Sub_Category>
+            <Document_Type>Invoice</Document_Type>
+            <Document_Sub_Type>Non-PO</Document_Sub_Type>
+        </DocumentStructureData>
+        <DocumentReference>
+            <Document_Type_Number>95017647</Document_Type_Number>
+            <Vendor_Name>XYZ SUPPLIERS</Vendor_Name>
+            <Vendor_Number>1005667</Vendor_Number>
+            <SAP_Document_Number>5609937717</SAP_Document_Number>
+            <Purchase_Order_Number>4508634017</Purchase_Order_Number>
+            <Invoice_Amount>5098.65</Invoice_Amount>
+        </DocumentReference>
+    </DocumentHeader>
+</DocumentClass>
